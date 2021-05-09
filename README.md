@@ -1,8 +1,8 @@
 # Music Visualiser Project
 
-Name:
+Name: William Greene-Hill
 
-Student Number: 
+Student Number: C19412942
 
 ## Instructions
 - Fork this repository and use it a starter project for your assignment
@@ -12,10 +12,13 @@ Student Number:
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
+My assignment is based off the sun in the sky, where the circle is the sun on the bottom left of the canvas and the rays the sun omits are the frequency band that thread the beat of the song that plays when ran, HeroPlanet!
 
 # Instructions
+Run the program and enjoy!
 
 # How it works
+When run, the program will play the mp3 file. I have drawn a frequency band around the circle (the sun) and they will grow and shrink in tandem with the beat using FFT.
 
 # What I am most proud of in the assignment
 
